@@ -49,7 +49,10 @@ europe_consumption<-food_consumption %>%
   filter(country %in% europe)
 
 #keep only european countries defined before in world_map
-europe_map <- map_data("world")%>%
+mapp<-map_data("world")
+mapp$region<-recode(mapp$region, UK = "United Kingdom")
+
+europe_map <- mapp%>%
   filter(region%in%europe)
 
 
@@ -146,7 +149,8 @@ title <- ggdraw() +
 ##Footnote
 footnote<- ggdraw() + 
   draw_label(
-    "*Only European Union countries and UK were included.\n **Data from https://r-tastic.co.uk/post/from-messy-to-tidy/",
+    "*Only European Union countries and UK were included.\n 
+    **Data from https://r-tastic.co.uk/post/from-messy-to-tidy/ \n by @AnguloBrunet",
     fontface = 'italic', x = 0,hjust = 0,color = "grey73" , size=10) +
   theme(plot.margin = margin(0, 0, 0, 0), 
         panel.background = element_rect(fill = "#414141", color="#414141"))
