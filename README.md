@@ -1,3 +1,10 @@
+# Week 10/2020 
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/NHL%20Goals/NHL_goals.R)
+
+Data from  https://www.hockey-reference.com
+
+![Week102020](https://github.com/AnguloB/Tidytuesday/blob/master/NHL%20Goals/HockeyNHL.gif)
+
 # Week 9/2020 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/Measles%20Vaccination/MeaslesVaccination.R)
 
