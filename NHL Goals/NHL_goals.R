@@ -33,8 +33,8 @@ season_goals <- readr::read_csv('https://raw.githubusercontent.com/rfordatascien
     filter(rank <=50)%>%
     select(rank,player,season,goals,status)%>%
     group_by(rank,player,season, status)%>%
-    summarise(total=sum(goals)) #necessary because some players are in more than 1 team per season
-  #  left_join(headsh)  #join the photo only in first occurrence
+    summarise(total=sum(goals)) # necessary because some players are in more than 1 team per season
+    left_join(headsh)  #join the photo only in first occurrence
 
     
 
@@ -42,7 +42,7 @@ season_goals <- readr::read_csv('https://raw.githubusercontent.com/rfordatascien
   
 plot1<-  ggplot()+
     geom_point(data=dat,aes(y=reorder(player, desc(rank)), x=season, size=total, colour=status),alpha=.5)+
-    geom_image(data=headsh,aes( y=player, x =season,image=headshot), size=0.05)+ #Añado imagen
+    geom_image(data=headsh,aes( y=player, x =season,image=headshot), size=0.05)+ #adds image
       labs(title = " Top 50 Hockey Goals scorers",
          caption= "Done by  @AnguloBrunet \n #tidytuesday \n Data from  HockeyReference.com")+
     xlab("")+ylab("")+
@@ -63,14 +63,15 @@ plot1<-  ggplot()+
                   legend.text = element_text(face = "bold", 
                                               colour = color2, size = 12, hjust = 0.5),
                   legend.key = element_rect(fill=color1, colour=color1))+
-          guides(size = FALSE,colour = guide_legend(override.aes = list(size=10)))+
+          guides(size = FALSE, #delate size legend 
+                 colour = guide_legend(override.aes = list(size=10)))+ #increase color size
                 scale_color_manual(values = c( color3, "white"))+
     transition_states(season, 
                     transition_length = 1,
                     state_length = 2) +
     labs(subtitle = "Season: {closest_state}" )+
     shadow_mark()
-  animate(plot1, nframes = 2 * length(unique(dat$season)),  height = 1748/2, width =2480/2)
+  animate(plot1, nframes = 2 * length(unique(dat$season)),  height = 1748/2, width =2480/2) 
   
  
 anim_save("HockeyNHL.gif")
