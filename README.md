@@ -1,3 +1,10 @@
+# Week 11/2020 
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_11_College/College.R)
+
+Data from  https://tuitiontracker.org
+
+![Week102020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_11_College/College_womenNonwhite.png)
+
 # Week 10/2020 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_10_NHL%20Goals/NHL_goals.R)
 
