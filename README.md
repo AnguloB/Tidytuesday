@@ -1,9 +1,20 @@
+# Week 12/2020 
+
+Data from [`schrute` R package](https://bradlindblad.github.io/schrute/index.html) and [data.world](https://data.world/anujjain7/the-office-imdb-ratings-dataset)
+
+Script  for circular barplot can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_12_TheOffice/1_TheOffice_BarplotCircular.R) , script for wordcloud can be found  [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_12_TheOffice/2_TheOffice_Text.R) 
+
+
+![Week112020_1](https://github.com/AnguloB/Tidytuesday/blob/master/2020_12_TheOffice/1_TheOffice_BarplotCircular.png)
+![Week112020_2](https://github.com/AnguloB/Tidytuesday/blob/master/2020_12_TheOffice/2_TheOffice_Text.png)
+
+
 # Week 11/2020 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_11_College/College.R)
 
 Data from  https://tuitiontracker.org
 
-![Week102020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_11_College/College_womenNonwhite.png)
+![Week112020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_11_College/College_womenNonwhite.png)
 
 # Week 10/2020 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_10_NHL%20Goals/NHL_goals.R)
