@@ -1,3 +1,12 @@
+# Week 14/2020 
+Data from [TTB](https://www.ttb.gov/beer/statistics)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_14_Beer_Production/BeerProduction.R)
+
+
+![Week142020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_14_Beer_Production/BeerProduction.png)
+
+
 # Week 13/2020 
 Data from [CDC](https://www.cdc.gov/traumaticbraininjury/pdf/TBI-Surveillance-Report-FINAL_508.pdf)
 
