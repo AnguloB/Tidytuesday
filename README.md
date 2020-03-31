@@ -1,3 +1,14 @@
+# Week 13/2020 
+Data from [CDC](https://www.cdc.gov/traumaticbraininjury/pdf/TBI-Surveillance-Report-FINAL_508.pdf)
+
+#ChangeYourMind, #braininjuryawarenessmonth
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_13_TraumaticBrainInjuty/TBI.R)
+
+More plots and extra readme can be found in [this](https://github.com/AnguloB/Tidytuesday/tree/master/2020_13_TraumaticBrainInjuty) folder
+
+![Week132020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_13_TraumaticBrainInjuty/TBIbyMeasure.png)
+
+
 # Week 12/2020 
 
 Data from [`schrute` R package](https://bradlindblad.github.io/schrute/index.html) and [data.world](https://data.world/anujjain7/the-office-imdb-ratings-dataset)
