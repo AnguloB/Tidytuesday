@@ -1,3 +1,12 @@
+# Week 15/2020 
+Data from [ Alastair Rushworth's Data Package tdf](https://github.com/alastairrushworth/tdf)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_15_TourDeFrance/TourDeFrance.R)
+
+
+![Week152020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_15_TourDeFrance/TourdeFrance.png)
+
+
 # Week 14/2020 
 Data from [TTB](https://www.ttb.gov/beer/statistics)
 
