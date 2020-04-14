@@ -1,3 +1,15 @@
+
+# Week 16/2020 
+The data this week comes from [BBC](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted). 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_16_BestRapArtists/BestRapArtists.R) 
+
+
+![Week162020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_16_BestRapArtists/BestRapArtists.png)
+
+
+Credit: [YOUR NAME](Twitter handle or other social media profile)
+
 # Week 15/2020 
 Data from [ Alastair Rushworth's Data Package tdf](https://github.com/alastairrushworth/tdf)
 
