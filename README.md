@@ -8,7 +8,6 @@ Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/20
 ![Week162020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_16_BestRapArtists/BestRapArtists.png)
 
 
-Credit: [YOUR NAME](Twitter handle or other social media profile)
 
 # Week 15/2020 
 Data from [ Alastair Rushworth's Data Package tdf](https://github.com/alastairrushworth/tdf)
