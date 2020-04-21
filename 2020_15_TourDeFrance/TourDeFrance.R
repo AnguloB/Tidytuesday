@@ -1,5 +1,5 @@
 
-# Tidytuesday week 14 2020. #Tour de france
+# Tidytuesday week 15 2020. #Tour de france
 #Data from https://github.com/alastairrushworth/tdf
 
 library(tidyverse)

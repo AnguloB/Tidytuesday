@@ -1,6 +1,6 @@
 
-# Tidytuesday week 14 2020. #Tour de france
-#Data from https://github.com/alastairrushworth/tdf
+# Tidytuesday week 16 2020. #Best rap artists
+
 
 library(tidyverse)
 
