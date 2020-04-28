@@ -1,4 +1,12 @@
 
+# Week 17/2020 
+The data this week comes from [Privacy Affairs](https://www.privacyaffairs.com/gdpr-fines/). 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_17_GDPR/GDPR.R) 
+
+
+![Week172020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_17_GDPR/GDPR.png)
+
 # Week 16/2020 
 The data this week comes from [BBC](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted). 
 
