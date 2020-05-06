@@ -1,4 +1,12 @@
 
+
+# Week 18/2020 
+The data this week comes from [Playbill](https://www.playbill.com/grosses), thanks to [Alex Cookson](https://github.com/tacookson)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_18_Broadway/Broadway.R) 
+![Week182020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_18_Broadway/MammaMia.png)
+
+
 # Week 17/2020 
 The data this week comes from [Privacy Affairs](https://www.privacyaffairs.com/gdpr-fines/). 
 
