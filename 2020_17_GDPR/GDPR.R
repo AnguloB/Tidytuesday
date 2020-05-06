@@ -221,8 +221,8 @@ annotate("text", x = 2.25, y = 4, label = annotation4, size=2.2, family="Courier
 annotate("text", x = 1.6, y = 4, label = annotation5, size=2.2, family="Courier")+
 annotate("text", x = 1.75, y = 4, label = annotation6, size=2.2, family="Courier")+
 annotate("text", x = 1.9, y = 10, label = annotation7, size=2.2, family="Courier", fontface=2)+
-annotate("text", x = 1.5, y = 11, label = annotation10, size=2, family="Courier", color ="white")+
-annotate("text", x = 1.4, y = 18, label = annotation11, size=2, family="Courier", color="white")+
+annotate("text", x = 1.5, y = 11, label = annotation10, size=1.5, family="Courier", color ="white")+
+annotate("text", x = 1.4, y = 18, label = annotation11, size=1.5, family="Courier", color="white")+
   annotate("text", x=0.7, y=10, label= annot, size=3.8, family = font, color=colortext, fontface=2)+
   theme(axis.title.x=element_blank(),
         axis.text.x=element_blank(),
