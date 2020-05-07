@@ -105,7 +105,7 @@ p1<-villagers%>%
 ggplot(aes(axis1 = reorder(speciesRE2,n), axis2 = reorder(gender, -n), axis3 = reorder(personality,n),
            y = n)) +
   scale_x_discrete(limits = c("", "", ""), expand = c(.1, .05)) + #remove s acis
-  geom_stratum(aes(fill = speciesRE2), color="#B3B39C") + #change background of squares
+  geom_stratum(aes(fill = speciesRE2), color="#717162") + #change background of squares # "#B3B39C"
   geom_alluvium(aes(fill = speciesRE2)) +geom_text(stat = "stratum", infer.label = TRUE) +
   theme_minimal() +theme_ari(legpos = "none")+ #remove leegend
   scale_fill_manual(values= c( "#FF8395", "#79C5D7", "#6B246C" ), na.value="#B3B39C")+ #set manual colors
