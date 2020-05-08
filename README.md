@@ -1,5 +1,12 @@
 
 
+# Week 19/2020 
+The data this week comes from [Villager DB](https://github.com/jefflomacy/villagerdb) and [Polygon](https://www.polygon.com/2020/4/2/21201065/animal-crossing-new-horizons-calm-mindfulness-coronavirus-quarantine)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_19_AnimalCrossing/AnimalCrossing.R) 
+![Week182020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_19_AnimalCrossing/AnimalCrossing.png)
+
+
 # Week 18/2020 
 The data this week comes from [Playbill](https://www.playbill.com/grosses), thanks to [Alex Cookson](https://github.com/tacookson)
 
