@@ -1,5 +1,12 @@
 
 
+# Week 20/2020 
+The data this week comes from [The Smithsonian Institution](https://volcano.si.edu) 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020_20_VolcanoEruptions/Volcano.R) 
+![Week202020](https://github.com/AnguloB/Tidytuesday/blob/master/2020_20_VolcanoEruptions/Volcano.png)
+
+
 # Week 19/2020 
 The data this week comes from [Villager DB](https://github.com/jefflomacy/villagerdb) and [Polygon](https://www.polygon.com/2020/4/2/21201065/animal-crossing-new-horizons-calm-mindfulness-coronavirus-quarantine)
 
