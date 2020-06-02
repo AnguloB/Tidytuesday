@@ -13,9 +13,6 @@ Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/20
 ![Week202021](https://github.com/AnguloB/Tidytuesday/blob/master/2020/21_Volley/Volley.png)
 
 
-
-=======
->>>>>>> df74cbcbed8e515ca373de23a1c3a6c673168c9a
 # Week 20/2020 
 The data this week comes from [The Smithsonian Institution](https://volcano.si.edu) 
 
