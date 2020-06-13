@@ -1,4 +1,18 @@
 
+# Week 24/2020 
+The data this week comes from Wikipedia.
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/24_africanamerican/africanamerican.R) 
+![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/24_africanamerican/africanamerican.png)
+
+
+# Week 23/2020 
+The data this week comes from [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/23_MarbleRaces/marbleraces.R) 
+![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/23_MarbleRaces/marbles.png)
+
+
 # Week 22/2020 
 The data this week comes from [Five thirty eight](https://fivethirtyeight.com/videos/we-got-drunk-on-margaritas-for-science/) 
 
