@@ -46,7 +46,7 @@ firsts%>%
   scale_fill_manual(values=paleta)+
   scale_y_continuous(breaks= c(1, 2, 3, 4, 5, 6))+
   labs(fill="", 
-       subtitle = "Female achivements by category", 
+       subtitle = "Female achievements by category", 
        title= "African-american achievements", 
        caption= "Done by @AnguloBrunet \n #tidytuesday")
   
