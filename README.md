@@ -1,3 +1,16 @@
+# Week 26/2020 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/26_Caribou/Caribou.gif) 
+![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/26_Caribou/caribou.gif)
+
+
+
+# Week 25/2020 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/25_African_American_History/africanHistory.R) 
+![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/25_African_American_History/africanHistory.png)
+
+
 
 # Week 24/2020 
 The data this week comes from Wikipedia.
