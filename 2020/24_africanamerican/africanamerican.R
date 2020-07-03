@@ -26,7 +26,7 @@ theme_ari<- function(){
           legend.position = "bottom")
     
   }
-}
+
 # Get the Data
 
 firsts <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-09/firsts.csv')
@@ -51,3 +51,4 @@ firsts%>%
        caption= "Done by @AnguloBrunet \n #tidytuesday")
   
 ggsave("africanamerican.png")
+
