@@ -1,14 +1,20 @@
+# Week 27/2020 
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/27_xmen/xmen.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/27_xmen/xmen.png)
+
+
 # Week 26/2020 
 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/26_Caribou/Caribou.gif) 
-![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/26_Caribou/caribou.gif)
+![Week202026](https://github.com/AnguloB/Tidytuesday/blob/master/2020/26_Caribou/caribou.gif)
 
 
 
 # Week 25/2020 
 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/25_African_American_History/africanHistory.R) 
-![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/25_African_American_History/africanHistory.png)
+![Week202025](https://github.com/AnguloB/Tidytuesday/blob/master/2020/25_African_American_History/africanHistory.png)
 
 
 
@@ -16,7 +22,7 @@ Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/20
 The data this week comes from Wikipedia.
 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/24_africanamerican/africanamerican.R) 
-![Week202023](https://github.com/AnguloB/Tidytuesday/blob/master/2020/24_africanamerican/africanamerican.png)
+![Week202024](https://github.com/AnguloB/Tidytuesday/blob/master/2020/24_africanamerican/africanamerican.png)
 
 
 # Week 23/2020 
