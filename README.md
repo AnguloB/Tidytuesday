@@ -1,3 +1,23 @@
+# Week 32/2020 
+Data from [Eurostat Energy](https://ec.europa.eu/eurostat/statistics-explained/index.php/Electricity_generation_statistics_–_first_results)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/32_europeanEnergy/europeanEnergy.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/32_europeanEnergy/europeanEnergy.png)
+
+# Week 31/2020 
+Data from [Gorman, Williams and Fraser, 2014](https://journals.plos.org/plosone/doi?id=10.1371/journal.pone.0090081)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/31_penguins/penguins.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/31_penguins/penguins.png)
+
+
+# Week 30/2020 
+Data from [RSPCA](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/30_animals/30_animals.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/30_animals/animals.png)
+
+
 # Week 29/2020 
 Data from [Corlett, Stavnichuk & Komarova article](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444)
 
