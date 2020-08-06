@@ -1,3 +1,18 @@
+# Week 29/2020 
+Data from [Corlett, Stavnichuk & Komarova article](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/29_astronaut/astronaut.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/29_astronaut/astronaut.png)
+
+
+# Week 28/2020 
+Data from [James LeDoux](https://github.com/jldbc/coffee-quality-database) & [Coffee Quality Database](https://github.com/jldbc/coffee-quality-database)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/28_coffee/coffee.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/28_coffee/coffee.png)
+
+
+
 # Week 27/2020 
 
 Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/27_xmen/xmen.R) 
