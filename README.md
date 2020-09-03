@@ -1,3 +1,31 @@
+# Week 36/2020 
+Data from [Our world in data](https://ourworldindata.org/crop-yields)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/36_crops/crops.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/36_crops/crops.png)
+
+
+# Week 35/2020 
+Data from [KAGGLE](https://www.kaggle.com/jeffreybraun/chopped-10-years-of-episode-data) and [IMDB](https://www.imdb.com/title/tt1353281/episodes?ref_=tt_eps_sn_mr)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/35_chopped/chopped.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/35_chopped/chopped.png)
+
+
+# Week 34/2020 
+Data from [IUCN](https://www.iucnredlist.org)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/34_plants/plants.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/34_plants/plants.png)
+
+
+# Week 33/2020 
+Data from [appa](https://github.com/averyrobbins1/appa)
+
+Script can be found [here](https://github.com/AnguloB/Tidytuesday/blob/master/2020/33_avatar/avatar.R) 
+![Week202027](https://github.com/AnguloB/Tidytuesday/blob/master/2020/33_avatar/avatar.png)
+
+
 # Week 32/2020 
 Data from [Eurostat Energy](https://ec.europa.eu/eurostat/statistics-explained/index.php/Electricity_generation_statistics_–_first_results)
 
